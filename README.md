@@ -35,8 +35,8 @@ The result is a **clean, scalable, analytics-ready warehouse**.
 ---
 # 📥 Clone This Repository
 ```
-git clone https://github.com/Harsh-Belekar/Advance-SQL-Project-Data-Warehousing-EDA-Advanced-Data-Analytics.git
-cd Advance-SQL-Project-Data-Warehousing-EDA-Advanced-Data-Analytics
+git clone https://github.com/ITS-NAYAN/advanced-sql-data-warehouse-analytics.git
+cd advanced-sql-data-warehouse-analytics
 ```
 
 ---
